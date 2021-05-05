@@ -1,0 +1,7 @@
+{
+   {"id" : "01", "name" : "xbox-gamepad", "category" : "gaming"}
+   {"id" : "02", "name" : "ipod", "category" : "music"}
+   {"id" : "03", "name" : "macTV", "category" : "electrical"}
+   {"id" : "04", "name" : "honda-winner", "catgory" : "vehicle"}
+   {"id" : "05", "name" : "mouse", "category" : "gaming"}
+}
